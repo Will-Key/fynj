@@ -8,6 +8,23 @@
       "expo-router"
     ],
     "name": "react_native_jobs",
-    "slug": "react_native_jobs"
+    "slug": "fynj",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "748c944e-88be-437b-b51f-d256847c70cf"
+      }
+    },
+    "owner": "iamunclekey",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/748c944e-88be-437b-b51f-d256847c70cf"
+    },
+    "android": {},
+    "ios": {}
   }
 }
