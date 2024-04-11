@@ -24,7 +24,9 @@
     "updates": {
       "url": "https://u.expo.dev/748c944e-88be-437b-b51f-d256847c70cf"
     },
-    "android": {},
+    "android": {
+      "package": "com.iamunclekey.fynj"
+    },
     "ios": {}
   }
 }
